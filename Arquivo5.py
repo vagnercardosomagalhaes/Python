@@ -17,6 +17,6 @@
 #print(f'{usr:#^10}')
 
 nome = 'ABCDE FGHIJ LMNOP QRST UVXZ'
-print(nome[2]) # pega caracter da posição 2 da string -> S
+print(nome[2]) # pega caracter da posição 2 da string -> C
 print(nome[2:9]) # pega posicao inicial e final da string - fatiando a string (como a substring do c#)
-print( len(nome))
+print( len(nome)) # pega o tamanho da string

@@ -4,15 +4,15 @@
 #    print("Teste de função")
 #    print("Teste de função")
 
-#nome = 'Vagner'
-#idade = 47
-#peso = 90
+nome = 'Vagner'
+idade = 47
+peso = 90
 
-#def Imprimir(nome, idade, peso):
-#    print(nome,idade,peso)
+def Imprimir(nome, idade, peso):
+    print(nome,idade,peso)
     
 
-#Imprimir(nome,idade,peso)
+Imprimir(nome,idade,peso)
 
 #def soma(x,y):
 #    print(x + y)
